@@ -1,0 +1,82 @@
+:root {
+
+  --font-family-latin: "Noto IKEA", "Noto Sans", "Roboto", "Open Sans", sans-serif;
+  --font-family-kufi-arabic: "Noto IKEA", "Noto Sans", "Noto Kufi Arabic", "Roboto", "Open Sans", sans-serif;
+  --font-family-sc: "Noto IKEA", "Noto Sans", "Noto Sans SC", "Roboto", "Open Sans", sans-serif;
+  --font-family-text: var(--font-family-latin);
+
+  --font-weight-normal: 400;
+  --font-weight-bold: 700;
+
+  --heading-font-size-xxl: 3.75rem;
+  --heading-line-height-xxl: 1.2;
+  --heading-letter-spacing-xxl: -1.1px;
+
+  --heading-font-size-xl: 3rem;
+  --heading-line-height-xl: 1.1667;
+  --heading-letter-spacing-xl: -.84px;
+
+  --heading-font-size-l: 2.375rem;
+  --heading-line-height-l: 1.2632;
+  --heading-letter-spacing-l: -.67px;
+
+  --heading-font-size-m: 1.875rem;
+  --heading-line-height-m: 1.3334;
+  --heading-letter-spacing-m: -.53px;
+
+  --heading-font-size-s: 1.5rem;
+  --heading-line-height-s: 1.3334;
+  --heading-letter-spacing-s: -.42px;
+
+  --heading-font-size-xs: 1.25rem;
+  --heading-line-height-xs: 1.2;
+
+  --title-font-size-h1-l: var(--heading-font-size-xl);
+  --title-line-height-h1-l: var(--heading-line-height-xl);
+  --title-letter-spacing-h1-l: var(--heading-letter-spacing-xl);
+  --title-font-size-h1-m: var(--heading-font-size-l);
+  --title-line-height-h1-m: var(--heading-line-height-l);
+  --title-letter-spacing-h1-m: var(--heading-letter-spacing-l);
+  --title-font-size-h1-s: var(--heading-font-size-m);
+  --title-line-height-h1-s: var(--heading-line-height-m);
+  --title-letter-spacing-h1-s: var(--heading-letter-spacing-m);
+
+  --title-font-size-h2-l: var(--heading-font-size-l);
+  --title-line-height-h2-l: var(--heading-line-height-l);
+  --title-letter-spacing-h2-l: var(--heading-letter-spacing-l);
+  --title-font-size-h2-m: var(--heading-font-size-m);
+  --title-line-height-h2-m: var(--heading-line-height-m);
+  --title-letter-spacing-h2-m: var(--heading-letter-spacing-m);
+  --title-font-size-h2-s: var(--heading-font-size-s);
+  --title-line-height-h2-s: var(--heading-line-height-s);
+  --title-letter-spacing-h2-s: var(--heading-letter-spacing-s);
+
+  --title-font-size-h3-m: var(--heading-font-size-m);
+  --title-line-height-h3-m: var(--heading-line-height-m);
+  --title-letter-spacing-h3-m: var(--heading-letter-spacing-m);
+  --title-font-size-h3-s: var(--heading-font-size-s);
+  --title-line-height-h3-s: var(--heading-line-height-s);
+  --title-letter-spacing-h3-s: var(--heading-letter-spacing-s);
+
+  --title-font-size-h4-l: var(--heading-font-size-s);
+  --title-line-height-h4-l: var(--heading-line-height-s);
+  --title-letter-spacing-h4-l: var(--heading-letter-spacing-s);
+  --title-font-size-h4-s: var(--heading-font-size-xs);
+  --title-line-height-h4-s: var(--heading-line-height-xs);
+
+  --title-font-size-h5: var(--heading-font-size-xs);
+  --title-line-height-h5: var(--heading-line-height-xs);
+
+  --body-font-size-l: 1.125rem;
+  --body-line-height-l: 1.3334;
+
+  --body-font-size-m: 1rem;
+  --body-line-height-m: 1.5;
+
+  --body-font-size-s: .875rem;
+  --body-line-height-s: 1.1429;
+
+  --body-font-size-xs: .75rem;
+  --body-line-height-xs: 1.3334;
+
+}

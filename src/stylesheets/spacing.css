@@ -1,0 +1,28 @@
+:root {
+
+  /* Space within components. */
+  --c-spacing-2xs: .25rem;
+  --c-spacing-xs: .5rem;
+  --c-spacing-s: .75rem;
+  --c-spacing-m: 1rem;
+  --c-spacing-l: 1.5rem;
+  --c-spacing-xl: 2rem;
+  --c-spacing-2xl: 2.5rem;
+
+  /* Space between components. */
+  --l-spacing-2xs: 1rem;
+  --l-spacing-xs: 1.5rem;
+  --l-spacing-s: 2rem;
+  --l-spacing-m: 3rem;
+  --l-spacing-l: 4rem;
+  --l-spacing-xl: 6rem;
+  --l-spacing-2xl: 8rem;
+
+  /* Screen sizes */
+  --breakpoints-small     : 36rem; /*  576px small */
+  --breakpoints-medium    : 48rem; /*  768px medium */
+  --breakpoints-large     : 62rem; /*  992px large */
+  --breakpoints-xlarge    : 75rem; /*  1200px xlarge */
+  --breakpoints-2xlarge   : 90rem !default; /*  1440px 2xlarge */
+
+}

@@ -1,0 +1,9 @@
+body {
+  color: var(--colour-neutral-grey-900);
+  font-family: var(--font-family-latin);
+  font-size: var(--body-font-size-m);
+  font-weight: var(--font-weight-normal);
+  line-height: var(--body-line-height-m);
+  margin: 0;
+  padding: 0;
+}
