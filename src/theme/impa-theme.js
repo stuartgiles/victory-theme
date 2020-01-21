@@ -141,7 +141,7 @@ const spacingL = 24;
 const spacingXL = 32;
 
 const baseProps = {
-  width: 320,
+  width: 640,
   height: 320,
   padding: 32
 };
